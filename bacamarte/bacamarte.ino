@@ -4,7 +4,7 @@ int value;
 
 void setup()
 {
-  Serial.begin(57600);
+  Serial.begin(38400);
 }
 
 void loop()
